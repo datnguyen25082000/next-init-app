@@ -13,7 +13,7 @@ export const SiteLayout: React.FC<any> = ({ children }) => (
               </Link>
               <Link href="/account-settings/basic-information">
                 <a className="ml-8 font-medium text-gray-900">
-                  Account Settings
+                  Account Settings 2
                 </a>
               </Link>
             </div>
