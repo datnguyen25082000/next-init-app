@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export const SiteLayout = ({ children }) => (
+export const SiteLayout: React.FC<any> = ({ children }) => (
   <div className="bg-white antialiased">
     <div>
       <div>
